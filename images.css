@@ -1,0 +1,16 @@
+p {
+    border: 1px solid crimson;
+    height: 40px;
+}
+
+.label-text {
+    font-weight: bold;
+}
+
+span {
+    color: red
+}
+
+.container {
+    border: 1px solid
+}
